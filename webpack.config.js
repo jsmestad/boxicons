@@ -15,9 +15,9 @@ module.exports = {
     filename: 'boxicons.js',
     clean: true
   },
-  optimization: {
-    minimize: false
-  },
+  // optimization: {
+  //   minimize: false
+  // },
   devtool: 'source-map',
   module: {
     rules: [
